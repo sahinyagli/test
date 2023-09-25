@@ -1,1 +1,2 @@
+// Müşteriler tablosunda olan tüm verileri çekmek için aşagıdaki kod kullanılır.
 SELECT * From Customers
