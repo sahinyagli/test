@@ -1,2 +1,3 @@
 // Müşteriler tablosunda olan tüm verileri çekmek için aşagıdaki kod kullanılır.
+// Açıklama satırı yazmak için // işareti kullanılır.
 SELECT * From Customers
